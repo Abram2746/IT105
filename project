@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <style>body{background-color:#d0e4fe;}h1{color:orange;text-align:center;}p{font-family:"Times New Roman";font-size:20px;}</style>
+  <title>IT Project</title>
+</head>
+
+<body>
+  <h1>Let's Learn about Local Area Networks</h1>
+    <!--LAN information was taken from howtogeek.com-->
+  <p>Put simply, a Local Area Network (LAN) is a group of computers and other
+  devices that are connected together over a network and are all in the same location
+  —typically within a single building like an office or home. LANs are typically
+  confined within a small area—usually one building, but that’s not a firm requirement.
+  That area might be your home or small business, and it could contain just a few devices.
+  It might also be a much larger area, like an entire office building that contains hundreds
+  or thousands of devices. If you want to learn more information about LANs,
+  <a target="_blank" href="https://www.howtogeek.com/353283/what-is-a-local-area-network-lan/">Click Here</a> </a> </p>
+  
+  <img src="https://st3.depositphotos.com/14846838/17639/v/1600/depositphotos_176397240-stock-illustration-conceptual-diagram-local-area-network.jpg"
+  alt="This is a photo that shows a depiction of a local area network (LAN)" style="width:500px;height:600px" >
+  
+  <!--Image from https://st3.depositphotos.com/14846838/17639/v/1600/depositphotos_176397240-stock-illustration-conceptual-diagram-local-area-network.jpg  -->
+  
+ <br>
+ <br>
+
+    <h1>Onto HTML</h1>
+    
+    <!--I took information about this topic from https://developer.mozilla.org/en-US/docs/Web/HTML -->
+    
+    <p>HTML stands for <strong><i>Hyper Text Markup Language</i></strong>. The HTML language is what's used to build websites and
+    goes hand-in-hand with other coding languages like CSS and JavaScript which are used to enhance the design of the webpage.
+    "Hypertext" refers to links that connect web pages to one another, either within a single website or between websites. Links are a
+    fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an
+    active participant in the World Wide Web. </p>
+    
+<br>
+<br>
+
+    <h1>What I've Learned</h1>
+    
+    <!--These are sources I used to educate myself
+    1: Khan Academy: https://www.khanacademy.org/computing/computer-programming/html-css/html-tags-continued/pt/html-links
+    
+    2: https://www.w3schools.com/tags/tag_meta.asp -->
+    
+    <p>The project required me to learn different things. There are many different elements in an html document. Going over
+    specificities on things like making links appear within a text or having an image be shown a certain way requires great attention
+    to detail. Something that was very interesting to me was the <i>meta</i> tag. Essentially, the <i>meta</i> tag provides metadata
+    about the HTML document, meaning that it sees the information, but won't display it to the user browsing the web. </p>
+
+<br>
+<br>
+
+</body>
+
+</html>
